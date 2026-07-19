@@ -6,3 +6,4 @@ console.log("Hello four file");
 
 /// thsi is the main branch bug that i'm listing 
 // not understand the commit 
+///testing the merge fix senero
